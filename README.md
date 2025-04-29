@@ -2,7 +2,6 @@
 <h3 align="center">Aspiring Data Scientist</h3>
 
 - 📫 How to reach me **thejasmadhu19@gmail.com**
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
